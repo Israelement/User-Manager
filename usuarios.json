@@ -1,0 +1,82 @@
+[
+    {
+        "email": "Luissette@gmail.com",
+        "nombre": "Luis",
+        "apellidos": "Arnaiz Bello",
+        "contrase\u00f1a": "1234",
+        "telefono": "624897564",
+        "edad": "18"
+    },
+    {
+        "email": "Fermin_1994@hotmail.com",
+        "nombre": "Fermin",
+        "apellidos": "Lopez Escribano",
+        "contrase\u00f1a": "1234",
+        "telefono": "611258975",
+        "edad": "30"
+    },
+    {
+        "email": "garuda14@hotmail.com",
+        "nombre": "Hector",
+        "apellidos": "Rey Gonzalez",
+        "contrase\u00f1a": "1234",
+        "telefono": "633558951",
+        "edad": "24"
+    },
+    {
+        "email": "Onepiece@yahoo.es",
+        "nombre": "Monkey",
+        "apellidos": "D.Luffy",
+        "contrase\u00f1a": "123",
+        "telefono": "None",
+        "edad": "25"
+    },
+    {
+        "email": "sandravelez17@gmail.com",
+        "nombre": "Sandra",
+        "apellidos": "Velez Velez",
+        "contrase\u00f1a": "1234",
+        "telefono": "664589321",
+        "edad": "28"
+    },
+    {
+        "email": "miriam_rdt@hotmail.com",
+        "nombre": "Miriam",
+        "apellidos": "Rodriguez Diaz",
+        "contrase\u00f1a": "1234",
+        "telefono": "612433225",
+        "edad": "20"
+    },
+    {
+        "email": "lightning3324@gmail.com",
+        "nombre": "Lucia",
+        "apellidos": "Garcia Yuste",
+        "contrase\u00f1a": "1234",
+        "telefono": "698557123",
+        "edad": "19"
+    },
+    {
+        "email": "old_school@gmail.com",
+        "nombre": "Jose Luis",
+        "apellidos": "Arteaga Saez",
+        "contrase\u00f1a": "1234",
+        "telefono": "624875578",
+        "edad": "45"
+    },
+    {
+        "email": "israel.lillo@gmail.com",
+        "nombre": "Israel",
+        "apellidos": "Ortega Sancho",
+        "contrase\u00f1a": "1234",
+        "telefono": "647813600",
+        "edad": "33"
+    },
+    {
+        "email": "veroni@gmail.com",
+        "nombre": "Veronica",
+        "apellidos": "Aduriz Etxebarria",
+        "contrase\u00f1a": "1234",
+        "telefono": "659329837",
+        "edad": "39"
+    }
+]
